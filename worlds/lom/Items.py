@@ -9,5 +9,6 @@ item_data = {
     "Jade Egg": {
         "id": 1, 
         "classification": "progression",
+        "type": "artifact"
     }
 }
