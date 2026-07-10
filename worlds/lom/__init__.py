@@ -2,8 +2,8 @@ from BaseClasses import ItemClassification
 from worlds.AutoWorld import World
 
 from .Options import LoMOptions
-from .Items import LoMItem, item_table
-from .Locations import location_table
+from .Items import LoMItem, item_data
+from .Locations import location_data
 from .Regions import create_regions
 
 
@@ -20,18 +20,23 @@ class LegendOfManaWorld(World):
         "Jade Egg": 1,
     }
 
-    location_name_to_id = location_table
+    location_name_to_id = location_data
 
     def create_regions(self):
         create_regions(self)
 
     def create_items(self):
-        for item_name, classification in item_table.items():
+        for name, data in item_data.items():
+            if data["classification"] == "progression":
+                classification = ItemClassification.progression
+            else:
+                classification = ItemClassification.filler
+
             self.multiworld.itempool.append(
                 LoMItem(
-                    item_name,
+                    name,
                     classification,
-                    self.item_name_to_id[item_name],
+                    data["id"],
                     self.player
                 )
             )

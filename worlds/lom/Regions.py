@@ -1,6 +1,6 @@
 from BaseClasses import Region
 
-from .Locations import LoMLocation, location_table
+from .Locations import LoMLocation, location_data
 
 
 def create_regions(world):

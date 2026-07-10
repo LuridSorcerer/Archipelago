@@ -5,6 +5,6 @@ class LoMLocation(Location):
     game = "Legend of Mana"
 
 
-location_table = {
+location_data = {
     "Mailbox": 1,
 }

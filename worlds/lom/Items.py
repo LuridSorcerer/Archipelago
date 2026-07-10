@@ -5,6 +5,9 @@ class LoMItem(Item):
     game = "Legend of Mana"
 
 
-item_table = {
-    "Jade Egg": ItemClassification.progression,
+item_data = {
+    "Jade Egg": {
+        "id": 1, 
+        "classification": "progression",
+    }
 }
