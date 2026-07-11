@@ -1,0 +1,36 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "LegendofMana",
+  "creator": "ZainWinters",
+  "filler_item_name": "100 Lucre",
+  "starting_items": [
+    {
+      "item_categories": [
+        "Weapons"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Abilities"
+      ],
+      "random": 2
+    },
+    {
+      "item_categories": [
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow"
+      ],
+      "random": 1
+    }
+  ]
+}

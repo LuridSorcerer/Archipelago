@@ -20,7 +20,10 @@ class LegendOfManaWorld(World):
         "Jade Egg": 1,
     }
 
-    location_name_to_id = location_data
+    location_name_to_id = {
+        name: location.id
+        for name, location in location_data.items()
+    }
 
     def create_regions(self):
         create_regions(self)
@@ -40,6 +43,7 @@ class LegendOfManaWorld(World):
                     self.player
                 )
             )
+        print(len(self.multiworld.itempool))
     
     def set_rules(self):
         self.multiworld.completion_condition[self.player] = \

@@ -22,8 +22,8 @@ def create_regions(world):
     home.locations.append(
         LoMLocation(
             world.player,
-            "Mailbox",
-            world.location_name_to_id["Mailbox"],
+            "Home #1",
+            world.location_name_to_id["Home #1"],
             home
         )
     )

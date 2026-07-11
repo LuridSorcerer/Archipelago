@@ -5,10 +5,4 @@ class LoMItem(Item):
     game = "Legend of Mana"
 
 
-item_data = {
-    "Jade Egg": {
-        "id": 1, 
-        "classification": "progression",
-        "type": "artifact"
-    }
-}
+item_data = { }

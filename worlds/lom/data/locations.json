@@ -1,0 +1,2752 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Niccolo's Buisness Unusual",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Wheel (Luon Highway)|)"
+    },
+    {
+      "name": "The Little Sorcerers",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Colorblocks (Domina)|"
+    },
+    {
+      "name": "The Monster Corral",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Colorblocks (Domina)|"
+    },
+    {
+      "name": "The Wisdom of Gaia",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Wheel (Luon Highway)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Mana Orchards",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Diddle's Letter",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Wheel (Luon Highway)|)"
+    },
+    {
+      "name": "The Flame of Hope",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Niccolo's Business Unusual 2",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Teatime of Danger",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mine Your Own Business",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Watts Drops The Hammer",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "The Path of the Blacksmith",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "The Infernal Doll",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "The Lost Princess",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Jade Egg (Mekiv Caverns)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Daddy's Broom",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Broken Doll (Junkyard)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Looking-Glass Tower",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "The Gorgon Eye",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Professor Bomb's Lab",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Broken Doll (Junkyard)| AND |Stone Eye (Lake Kilma)|)"
+    },
+    {
+      "name": "Golem Go Make 'em",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Broken Doll (Junkyard)| AND |Stone Eye (Lake Kilma)|)"
+    },
+    {
+      "name": "Faeries' Light",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Firefly Lamp (Lumina)|"
+    },
+    {
+      "name": "Huntin' Du'Cate",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Medallion (Jungle)|",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Murmuring Forest",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Two Torches",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)|)"
+    },
+    {
+      "name": "In Search of Faeries",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Pokiehl: Dream Teller",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Bottled Spirit (Ulkan Mines)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Star-Crossed Lovers",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)|)",
+      "place_item": [
+        "Brooch of Love (Lucemia)"
+      ]
+    },
+    {
+      "name": "Niccolo's Business Unusual 3",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Ancient Tablet (Mindas Ruins)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Reach for the Stars",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Enchanted Instruments 101",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|"
+    },
+    {
+      "name": "The Fallen Emperor",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Diddle Had It!",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Firefly Lamp (Lumina)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Pursuit of Wisdoms",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Wheel (Luon Highway)| AND |Stone Eye (Lake Kilma)| AND |Medallion (Jungle)| AND |Trembling Spoon (The Underworld)| AND |Flame (Gato Grottos)|)"
+    },
+    {
+      "name": "The Guardian of Winds",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)|)"
+    },
+    {
+      "name": "The Field Trip",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Dragonbone (Bone Fortress)|"
+    },
+    {
+      "name": "The Ghost of Nemesis",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)|)"
+    },
+    {
+      "name": "Can't Look Back",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Heaven's Gate",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)"
+    },
+    {
+      "name": "Cage of Dreams",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|) OR (|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)| AND |Jumi's Staff (Bejeweled City)|) OR (|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|) AND (|@Artifacts:18|)",
+      "place_item": [
+        "Sword of Mana (Tree of Mana)"
+      ]
+    },
+    {
+      "name": "Seeing Double",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Colorblocks (Domina)|",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Pee-Wee Birdie",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Colorblocks (Domina)|",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Summer Lovin'",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)|"
+    },
+    {
+      "name": "Drowned Dreams",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Rusty Anchor (Polpota Harbor)|"
+    },
+    {
+      "name": "A Siren's Song",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Rusty Anchor (Polpota Harbor)| AND |Torch of Coral (Madora Beach)|)"
+    },
+    {
+      "name": "The Dragon Princess",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "The Crimson Dragon",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "The Quiet Sea",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "Where's Putty",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Pirate's Hook (SS Buccaneer)| AND |Bottled Spirit (Ulkan Mines)| AND |Rusty Anchor (Polpota Harbor)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Catchin' Lilipeas",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "Diddle Kidnapped!?",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Firefly Lamp (Lumina)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "The Treasure Map",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Jade Egg (Mekiv Caverns)| AND |Pirate's Hook (SS Buccaneer)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Snowfield Faeries",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Pirate's Hook (SS Buccaneer)| AND |Frozen Heart (Fieg Snowfields)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Buried Treasure",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Pirate's Hook (SS Buccaneer)| AND |Torch of Coral (Madora Beach)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Gilbert: Love is Blind",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Torch of Coral (Madora Beach)| AND |Rusty Anchor (Polpota Harbor)| AND |Firefly Lamp (Lumina)| AND |Pirate's Hook (SS Buccaneer)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Gilbert: School Amour",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Tome of Magic (Geo)| AND |Firefly Lamp (Lumina)|)"
+    },
+    {
+      "name": "Gilbert: Resume for Love",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Tome of Magic (Geo)| AND |Bottled Spirit (Ulkan Mines)| AND |Firefly Lamp (Lumina)| AND |Torch of Coral (Madora Beach)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Niccolo's Business Unusual 4",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Ancient Tablet (Mindas Ruins)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)| AND |Tome of Magic (Geo)| AND |Bottled Spirit (Ulkan Mines)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Niccolo Calls it Quits?",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Ancient Tablet (Mindas Ruins)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)| AND |Tome of Magic (Geo)| AND |Bottled Spirit (Ulkan Mines)| AND |Rusty Anchor (Polpota Harbor)|)"
+    },
+    {
+      "name": "The Blessed Elixir",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Ancient Tablet (Mindas Ruins)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)| AND |Tome of Magic (Geo)| AND |Bottled Spirit (Ulkan Mines)| AND |Rusty Anchor (Polpota Harbor)| AND |Sand Rose (Duma Desert)|)"
+    },
+    {
+      "name": "The Wimpy Thugling",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Rachel",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Colorblocks (Domina)| AND |Tome of Magic (Geo)|)"
+    },
+    {
+      "name": "The Lucky Clover",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)|)"
+    },
+    {
+      "name": "Li'l Cactus",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Wheel (Luon Highway)| AND |Medallion (Jungle)| AND |Tome of Magic (Geo)| AND |Pirate's Hook (SS Buccaneer)| AND |Colorblocks (Domina)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Cosmo",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)|)"
+    },
+    {
+      "name": "Two Pearls",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)|)"
+    },
+    {
+      "name": "Alexandrite",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)|)"
+    },
+    {
+      "name": "Flourite",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)|)",
+      "place_item": [
+        "Jumi's Staff (Bejeweled City)"
+      ]
+    },
+    {
+      "name": "Teardrop Crystal",
+      "category": [
+        "Events"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)| AND |Jumi's Staff (Bejeweled City)|)"
+    },
+    {
+      "name": "The Legend of Mana",
+      "category": [
+        "Events"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|",
+      "victory": true
+    },
+    {
+      "name": "Home #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": ""
+    },
+    {
+      "name": "Domina #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Colorblocks (Domina)|"
+    },
+    {
+      "name": "Gato Grottos #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Lumina #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Firefly Lamp (Lumina)|"
+    },
+    {
+      "name": "Luon Highway #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Luon Highway #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Luon Highway #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Luon Highway #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Luon Highway #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Luon Highway #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Luon Highway #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Mekiv Caverns #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Mekiv Caverns #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Mekiv Caverns #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Mekiv Caverns #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Mekiv Caverns #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Jungle #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Jungle #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Medallion (Jungle)|"
+    },
+    {
+      "name": "Gato Grottos Caves #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos Caves #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos Caves #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos Caves #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos Caves #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos Caves #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Gato Grottos Caves #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Flame (Gato Grottos)|"
+    },
+    {
+      "name": "Duma Desert #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|"
+    },
+    {
+      "name": "Duma Desert #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|"
+    },
+    {
+      "name": "Duma Desert #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|"
+    },
+    {
+      "name": "Duma Desert #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|"
+    },
+    {
+      "name": "Duma Desert #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sand Rose (Duma Desert)|"
+    },
+    {
+      "name": "Duma Desert #6 (Wimpy Thugling Only)",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Ancient Tablet (Mindas Ruins)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)| AND |Tome of Magic (Geo)| AND |Bottled Spirit (Ulkan Mines)| AND |Rusty Anchor (Polpota Harbor)| AND |Sand Rose (Duma Desert)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Duma Desert #7 (Wimpy Thugling Only)",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Firefly Lamp (Lumina)| AND |Ancient Tablet (Mindas Ruins)| AND |Colorblocks (Domina)| AND |Wheel (Luon Highway)| AND |Flame (Gato Grottos)| AND |Tome of Magic (Geo)| AND |Bottled Spirit (Ulkan Mines)| AND |Rusty Anchor (Polpota Harbor)| AND |Sand Rose (Duma Desert)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Duma Desert #8 (Flourite Only)",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Sand Rose (Duma Desert)| AND |Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)|)"
+    },
+    {
+      "name": "Junkyard #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Junkyard #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Junkyard #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Junkyard #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Junkyard #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Junkyard #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Junkyard #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Mindas Ruins #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mindas Ruins #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Madora Beach #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)|"
+    },
+    {
+      "name": "Madora Beach #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)|"
+    },
+    {
+      "name": "Madora Beach #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)|"
+    },
+    {
+      "name": "Madora Beach #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)|"
+    },
+    {
+      "name": "Madora Beach #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)|"
+    },
+    {
+      "name": "Lake Kilma #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lake Kilma #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lake Kilma #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lake Kilma #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lake Kilma #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lake Kilma #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lake Kilma #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Ulkan Mines #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Ulkan Mines #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Ulkan Mines #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Ulkan Mines #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Ulkan Mines #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Ulkan Mines #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "The Underworld #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "The Underworld #9",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "SS Buccaneer #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "SS Buccaneer #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "SS Buccaneer #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "SS Buccaneer #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "Fieg Snowfields #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Fieg Snowfields #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)|"
+    },
+    {
+      "name": "Norn Peaks #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Norn Peaks #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Bone Fortress #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Dragonbone (Bone Fortress)| AND |Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Bone Fortress #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Dragonbone (Bone Fortress)| AND |Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Bone Fortress #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Dragonbone (Bone Fortress)| AND |Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Bone Fortress #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Dragonbone (Bone Fortress)| AND |Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Bone Fortress #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Dragonbone (Bone Fortress)| AND |Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "Bone Fortress #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Dragonbone (Bone Fortress)| AND |Skull Lantern (Norn Peaks)| AND (|Trembling Spoon (The Underworld)|)"
+    },
+    {
+      "name": "The Flames #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "The Flames #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Tower of Leires #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Tower of Leires #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Bejeweled City #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)|"
+    },
+    {
+      "name": "Bejeweled City #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)|"
+    },
+    {
+      "name": "Bejeweled City #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)|"
+    },
+    {
+      "name": "Bejeweled City #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)| AND |Jumi's Staff (Bejeweled City)|)"
+    },
+    {
+      "name": "Bejeweled City #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)| AND |Jumi's Staff (Bejeweled City)|)"
+    },
+    {
+      "name": "Bejeweled City #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)| AND |Jumi's Staff (Bejeweled City)|)"
+    },
+    {
+      "name": "Bejeweled City #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Moon's Mirror (Tower of Leires)| AND |Colorblocks (Domina)| AND |Tome of Magic (Geo)| AND |Jade Egg (Mekiv Caverns)| AND |Jumi's Staff (Bejeweled City)|)"
+    },
+    {
+      "name": "Lucemia #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Lucemia #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "(|Medallion (Jungle)| AND |Flame (Gato Grottos)| AND |Ancient Tablet (Mindas Ruins)| AND |Bottled Spirit (Ulkan Mines)| AND |Brooch of Love (Lucemia)|)",
+      "place_item_category": [
+        "Abilities",
+        "Weapons",
+        "Instruments",
+        "Special Techniques Knife",
+        "Special Techniques Sword",
+        "Special Techniques Axe",
+        "Special Techniques 2H Sword",
+        "Special Techniques 2H Axe",
+        "Special Techniques Hammer",
+        "Special Techniques Spear",
+        "Special Techniques Staff",
+        "Special Techniques Gloves",
+        "Special Techniques Flail",
+        "Special Techniques Bow",
+        "Armor",
+        "Misc"
+      ]
+    },
+    {
+      "name": "Tree of Mana #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Tree of Mana #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Rabite",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Wheel (Luon Highway)| OR |Frozen Heart (Fieg Snowfields)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Molebear",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR |Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Teedie",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)| OR |Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Howler",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Frozen Heart (Fieg Snowfields)| OR |Skull Lantern (Norn Peaks)|"
+    },
+    {
+      "name": "Gray Ox",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Lullabud",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Wheel (Luon Highway)| OR |Ancient Tablet (Mindas Ruins)|"
+    },
+    {
+      "name": "Mushboom",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Shrieknip",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)| OR |Skull Lantern (Norn Peaks)|"
+    },
+    {
+      "name": "Malboro",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Medallion (Jungle)| OR |Ancient Tablet (Mindas Ruins)| OR |Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Wooding",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Stinger Bug",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Wheel (Luon Highway)| OR |Ancient Tablet (Mindas Ruins)| OR |Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Hoppin' Tick",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Silkspitter",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Sand Scorpion",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR |Brooch of Love (Lucemia)|"
+    },
+    {
+      "name": "Gloomoth",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)|) OR |Medallion (Jungle)|"
+    },
+    {
+      "name": "Tonpole",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)| OR |Stone Eye (Lake Kilma)| OR |Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Lizardon",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Rattler Boa",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Ancient Tablet (Mindas Ruins)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Basilisk",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Ancient Tablet (Mindas Ruins)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Tyrranos",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Medallion (Jungle)| OR |Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Iffish",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)| OR |Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "Pincher Crab",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)| OR |Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Seajack",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)| OR |Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Seadragon",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)| OR |Frozen Heart (Fieg Snowfields)| OR |Brooch of Love (Lucemia)|"
+    },
+    {
+      "name": "Big Baby",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Torch of Coral (Madora Beach)| OR |Frozen Heart (Fieg Snowfields)| OR |Brooch of Love (Lucemia)|"
+    },
+    {
+      "name": "Needlebeak",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Wheel (Luon Highway)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Bloodsucker",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)| OR |Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Cockatrice",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR |Medallion (Jungle)|"
+    },
+    {
+      "name": "Chocobo",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR |Wheel (Luon Highway)| OR |Torch of Coral (Madora Beach)| OR |Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Garuda",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)| OR |Wheel (Luon Highway)| OR (|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)|)"
+    },
+    {
+      "name": "Shadow Zero",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Jumi's Staff (Bejeweled City)| OR |Broken Doll (Junkyard)| OR |Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Slime",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Dragonbone (Bone Fortress)| OR |Flame (Gato Grottos)| OR |Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Tezla",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Dragonbone (Bone Fortress)| OR |Flame (Gato Grottos)| OR |Bottled Spirit (Ulkan Mines)| OR |Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Denden",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Wheel (Luon Highway)| OR |Green Cane (The White Forest)| OR |Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Moldy Goo",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Broken Doll (Junkyard)|"
+    },
+    {
+      "name": "Skull Beast",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR |Dragonbone (Bone Fortress)|"
+    },
+    {
+      "name": "Zombine",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)| OR |Medallion (Jungle)|"
+    },
+    {
+      "name": "Specter",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Bottled Spirit (Ulkan Mines)| OR |Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "Skeleton",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Ape Mummy",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)| OR |Ancient Tablet (Mindas Ruins)| OR |Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Imp",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Broken Doll (Junkyard)| OR |Wheel (Luon Highway)| OR |Brooch of Love (Lucemia)|"
+    },
+    {
+      "name": "Fierce Face",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR (|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "Punkster",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Broken Doll (Junkyard)| OR |Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Darkstalker",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)| OR |Moon's Mirror (Tower of Leires)| OR |Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Chimera Beast",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Kid Dragon",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Dragonbone (Bone Fortress)| OR |Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Sky Dragon",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)| OR |Sword of Mana (Tree of Mana)| OR (|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "Land Dragon",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "(|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|) OR |Jade Egg (Mekiv Caverns)| OR |Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Eye Spy",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)| OR |Wheel (Luon Highway)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Spiny Cone",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Stone Eye (Lake Kilma)| OR |Wheel (Luon Highway)| OR |Medallion (Jungle)|"
+    },
+    {
+      "name": "Poto",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)| OR |Jade Egg (Mekiv Caverns)|"
+    },
+    {
+      "name": "Beholder",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)| OR |Stone Eye (Lake Kilma)|"
+    },
+    {
+      "name": "Springball",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sword of Mana (Tree of Mana)| OR |Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Cursed Doll",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Broken Doll (Junkyard)| OR |Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Polter Box",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Flame (Gato Grottos)| OR |Broken Doll (Junkyard)| OR |Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "Chess Knight",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Broken Doll (Junkyard)| OR |Ancient Tablet (Mindas Ruins)| OR |Moon's Mirror (Tower of Leires)| OR (|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "Dainslaif",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Dragonbone (Bone Fortress)| OR |Ancient Tablet (Mindas Ruins)| OR |Moon's Mirror (Tower of Leires)|"
+    },
+    {
+      "name": "Chobin Hood",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)| OR |Stone Eye (Lake Kilma)| OR |Wheel (Luon Highway)|"
+    },
+    {
+      "name": "Goblin",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jade Egg (Mekiv Caverns)| OR |Green Cane (The White Forest)|"
+    },
+    {
+      "name": "Tomato Man",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Dragonbone (Bone Fortress)| OR |Medallion (Jungle)| OR |Sword of Mana (Tree of Mana)|"
+    },
+    {
+      "name": "Sahagin",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Frozen Heart (Fieg Snowfields)| OR |Torch of Coral (Madora Beach)| OR |Jade Egg (Mekiv Caverns)| OR |Pirate's Hook (SS Buccaneer)|"
+    },
+    {
+      "name": "Succubus",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Jumi's Staff (Bejeweled City)| OR |Ancient Tablet (Mindas Ruins)| OR |Moon's Mirror (Tower of Leires)| OR |Trembling Spoon (The Underworld)|"
+    },
+    {
+      "name": "Narcissos",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Skull Lantern (Norn Peaks)| OR |Bottled Spirit (Ulkan Mines)|"
+    },
+    {
+      "name": "Mad Mallard",
+      "category": [
+        "Bestiary"
+      ],
+      "requires": "|Sand Rose (Duma Desert)| OR |Broken Doll (Junkyard)| OR |Moon's Mirror (Tower of Leires)| OR (|Trembling Spoon (The Underworld)| AND |Skull Lantern (Norn Peaks)| AND |Dragonbone (Bone Fortress)| AND |Green Cane (The White Forest)|)"
+    },
+    {
+      "name": "Colorblocks Sproutling",
+      "category": [],
+      "requires": "",
+      "place_item_category": [
+        "Artifacts"
+      ]
+    },
+    {
+      "name": "White Forest #1",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #2",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #3",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #4",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #5",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #6",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #7",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    },
+    {
+      "name": "White Forest #8",
+      "category": [
+        "Chests"
+      ],
+      "requires": "|Green Cane (The White Forest)|"
+    }
+  ]
+}

@@ -1,0 +1,2173 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Flame (Gato Grottos)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Firefly Lamp (Lumina)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colorblocks (Domina)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tome of Magic (Geo)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wheel (Luon Highway)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Torch of Coral (Madora Beach)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bottled Spirit (Ulkan Mines)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dragonbone (Bone Fortress)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stone Eye (Lake Kilma)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Moon's Mirror (Tower of Leires)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Green Cane (The White Forest)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trembling Spoon (The Underworld)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jade Egg (Mekiv Caverns)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sand Rose (Duma Desert)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Skull Lantern (Norn Peaks)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Broken Doll (Junkyard)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Medallion (Jungle)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jumi's Staff (Bejeweled City)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Frozen Heart (Fieg Snowfields)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Pirate's Hook (SS Buccaneer)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ancient Tablet (Mindas Ruins)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sword of Mana (Tree of Mana)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Seed (The Orchard)",
+      "category": [
+        "Misc"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Brooch of Love (Lucemia)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rusty Anchor (Polpota Harbor)",
+      "category": [
+        "Artifacts"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Jump",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Defend",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lunge",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Retreat",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Crouch",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Push",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cheer",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spin",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Grapple",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Whirl",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Catapult",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Somersault",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Back-Roll",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Moonsault",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "High Jump",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Double-Jump",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tackle",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Counterattack",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Counterstrike",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Taunt",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Evade",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Toss",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Defensive Lunge",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Slide",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flip-Kick",
+      "category": [
+        "Abilities"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Knife",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sword",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Axe",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "2H Sword",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "2H Axe",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hammer",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spear",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Staff",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gloves",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flail",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bow",
+      "category": [
+        "Weapons"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flute",
+      "category": [
+        "Instruments"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Marimba",
+      "category": [
+        "Instruments"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Harp",
+      "category": [
+        "Instruments"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Drums",
+      "category": [
+        "Instruments"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Admonition",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Eagle",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Vortex of Death",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Vapor Blade",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sonic Wave",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Dragon",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Crescent Moon",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Eclipse",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Backstab",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Puppet (Knife)",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cobra Fang",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ninja Drop",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Pouncing Cat",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Back Slasher",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Reaping the Mist",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dark Assassins",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dance of Roses",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Looking Glass (Knife)",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Aerial Reaver",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phoenix",
+      "category": [
+        "Special Techniques Knife"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Iai Strike",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cutting Bamboo",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Maelstrom",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Sun",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Triple Tiger",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blade Launcher",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cutting Pine (Sword)",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bird of Prey",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Corkscrew",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cross Strike (Sword)",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tiger Claw",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Clean Sweep",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon's Tail",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Orbiting Blades",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Motion of Truth",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Smashing Blade",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Invisible Death",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dynamite X (Sword)",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Terminal Velocity",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Dragon",
+      "category": [
+        "Special Techniques Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Deep Slice",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Axe Bomb",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tornado",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Electronic Yo-yo",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Retribution (Axe)",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Four Falcons",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Salmon Upstream",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Sun (Axe)",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cutting Pine (Axe)",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Axe Bomber",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Black Wings",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Boulder Dash",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Orbiting Blades (Axe)",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cross Strike (Axe)",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "True Strike",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dynamite X (Axe)",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Time Burst",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Karma",
+      "category": [
+        "Special Techniques Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lunging Arc",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Crush",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spiral Wave",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shish Kebob",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Impulse",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Shield Breaker",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Windslasher",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Windwalker (2H Sword)",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Splashblade (2H Sword)",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rain of Blood",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bring it On",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Marble Stream",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Skullsplitter (2H Sword)",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Beautiful Three",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Quakebringer",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Triple Offense",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Deep Swing",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Raging Pain",
+      "category": [
+        "Special Techniques 2H Sword"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sideswipe",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Claw",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flying Sawblades",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rolling Throw",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blurred Axe",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Crush (2H Axe)",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spiral Wave (2H Axe)",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Impulse (2H Axe)",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Divine Right",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Snowfall",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spinning Hawk",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tidal Wave (2H Axe)",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Splashblade (2H Axe)",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Angelic Lumberjack",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Buzzsaw of Doom",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spikestrike",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sparkling Rampage",
+      "category": [
+        "Special Techniques 2H Axe"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Slugger",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Big Bang",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blammo",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mole-Hunting",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ground Zero",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rising Crush (Hammer)",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Windwalker (Hammer)",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Retribution (Hammer)",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blazing Hammer",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Double Impact",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Thor's Hammer",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Skullsplitter (Hammer)",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tidal Wave (Hammer)",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Ultra Slugger",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Intervention",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Volcanic Blast",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Pearly Gates",
+      "category": [
+        "Special Techniques Hammer"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lancer",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mighty Javelin",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Twister",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon's Bite",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Furious Copter",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Nebulous Saucer",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lancenator",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cyclone Racer",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rewind",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fool's Play",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Holy Light",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Triple Supremacy",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Deadly Branding",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chrome Ray",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Raging Fury",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lo and Behold",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blue Dragon",
+      "category": [
+        "Special Techniques Spear"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gust",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Paint it Black",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Aftershock",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Pyres",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bubbles",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blaze",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Halo",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Purgatory",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flower of Gold",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fire and Ice",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gales of the Fall",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Song of the Spirits",
+      "category": [
+        "Special Techniques Staff"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Bloody Knuckles",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Lightning Kick",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Whirlwind Kick",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jawbreaker",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rolling Slam",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flip Thrust",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Moonsault Stomp",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Giant Swing",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tiger Driver",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Northern Lights",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mental Barrier",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sparkly Feet",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cough Drop",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phenomental Fist",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flips of Thunder",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Power Combo",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gravity Drop",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Earthquake",
+      "category": [
+        "Special Techniques Gloves"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon Teeth",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Setting Sun",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Phoenix Wings",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chinsplitter",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Drunken Monkey",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Twilight",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Psyclone",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Double Dragon",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Back Attack",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Enter the Tiger",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Avalanche",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Puppet (Flail)",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Challenger",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Demon's Howl",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Extreme Conditions",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Looking Glass (Flail)",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Malevolence",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "White Tiger",
+      "category": [
+        "Special Techniques Flail"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Trueshot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Forward Artillery",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Spinshot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Needle Shower",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tri-Shot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Trickshot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hypershot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Change-up",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Backshot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Flying Swallows",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rain of Death",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sureshot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Carpet Bomber",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mastershot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Wildshot",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Main Gun",
+      "category": [
+        "Special Techniques Bow"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sheilds",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Helmets",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Hats",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Armors",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Robes",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Gauntlets",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rings",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Boots",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sandals",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Body Armor",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Capes",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Pendants",
+      "category": [
+        "Armor"
+      ],
+      "useful": true
+    },
+    {
+      "count": "5",
+      "name": "Monster Corral Slots",
+      "category": [
+        "Misc"
+      ],
+      "useful": true
+    },
+    {
+      "count": "3",
+      "name": "Golem Lifeball",
+      "category": [
+        "Misc"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Home Orchard",
+      "category": [
+        "Misc"
+      ],
+      "useful": true
+    }
+  ]
+}
